@@ -1,12 +1,1 @@
->> Why do you want to work at Bugcrowd? (We value this response highly; great answers are often 200-400 words.)*
-
-ANS: Bugcrowd is one of the most well known names in the infosec community, connecting clients across various sectors with security researchers worldwide. This platform not only provides an opportunity to showcase one's skills and deliver real value to organizations but also to collaborate with some of the industry's top talents.
-I successfully cleared my first round in 2023 and was scheduled for the second, but unfortunately, the position was filled before I could proceed. Since then, I have been eagerly waiting for another opportunity to secure this role.
-
->>One of the core responsibilities for this role is triaging security vulnerability reports on Bugcrowd. What makes you a great fit for this role? * (answer in 200-400 words)*
-
-ANS: With experience working across various cross-functional teams and security projects, I go beyond just conducting penetration tests and identifying vulnerabilities. I also review reports submitted by other security researchers, assess real issues based on exploitation feasibility and business impact, and effectively communicate these findings to clients. My goal is to ensure a clear understanding of risks, enabling faster and more effective resolutions.
-
->> Describe why are you passionate about cyber security. (answer in 200-300 words)*
-ANS: I originally pursued studies in aviation, but during the lockdown, I discovered my passion for hacking. This interest in infosec led me to abandon my plans of working in the airline industry and instead seek opportunities in cybersecurity.
-Despite having no prior knowledge, I secured an internship and continuously learned new methodologies. This field has since given me the opportunity to work with various companies as a service provider and contribute to a wide range of security projects.
+>> tststs
